@@ -55,3 +55,9 @@ class AnimatedViewDemo extends Component {
 }
 
 export default AnimatedViewDemo;
+
+
+
+        maven { url 'https://maven.aliyun.com/nexus/content/repositories/google' }
+        maven{ url 'https://maven.aliyun.com/repository/public/' }
+        maven{ url 'https://maven.aliyun.com/repository/central'}
